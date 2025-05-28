@@ -1,5 +1,5 @@
 # stock_forecast_rolling_arima_LSTM_BiLSTM
-# 📊 Time Series Forecasting with ARIMA and LSTM
+# 📊 Time Series Forecasting
 
 Forecasting future values from historical time series data is essential in domains like finance, economics, and strategic planning. Traditional models such as **ARIMA** (AutoRegressive Integrated Moving Average) have been widely used for their strength in modeling linear and stationary time series. However, they struggle with capturing non-linear patterns, volatility, and long-term dependencies.
 
